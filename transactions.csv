@@ -1,0 +1,77 @@
+date,description,amount,type
+2024-01-02,Whole Foods Market,-85.50,debit
+2024-01-03,Netflix Subscription,-15.99,debit
+2024-01-04,Shell Gas Station,-62.00,debit
+2024-01-05,Salary Deposit,5500.00,credit
+2024-01-07,Amazon Purchase,-120.00,debit
+2024-01-08,CVS Pharmacy,-34.20,debit
+2024-01-10,Starbucks Coffee,-6.75,debit
+2024-01-11,Planet Fitness,-29.99,debit
+2024-01-12,Uber Ride,-18.50,debit
+2024-01-14,Trader Joes,-95.30,debit
+2024-01-15,Spotify Premium,-9.99,debit
+2024-01-16,Electric Bill,-110.00,debit
+2024-01-17,Chipotle,-14.25,debit
+2024-01-18,Rent Payment,-1800.00,debit
+2024-01-19,ATM Withdrawal,-200.00,debit
+2024-01-20,McDonald's,-8.90,debit
+2024-01-21,Internet Bill,-59.99,debit
+2024-01-22,Costco,-245.60,debit
+2024-01-23,Lyft Ride,-22.00,debit
+2024-01-25,Apple Store,-999.00,debit
+2024-01-26,Walgreens,-28.75,debit
+2024-01-27,BP Gas Station,-55.00,debit
+2024-01-28,Sushi Restaurant,-78.00,debit
+2024-01-29,Freelance Income,1200.00,credit
+2024-01-30,Gym Supplement Store,-89.99,debit
+2024-02-01,Whole Foods Market,-92.40,debit
+2024-02-02,Netflix Subscription,-15.99,debit
+2024-02-03,Chevron Gas,-58.50,debit
+2024-02-05,Salary Deposit,5500.00,credit
+2024-02-06,Amazon Purchase,-67.99,debit
+2024-02-07,Walgreens,-19.50,debit
+2024-02-08,Starbucks Coffee,-7.25,debit
+2024-02-09,Planet Fitness,-29.99,debit
+2024-02-10,Uber Ride,-14.75,debit
+2024-02-12,Kroger Grocery,-88.90,debit
+2024-02-13,Spotify Premium,-9.99,debit
+2024-02-14,Valentine Dinner,-185.00,debit
+2024-02-15,Rent Payment,-1800.00,debit
+2024-02-16,Gas Bill,-95.00,debit
+2024-02-17,Dominos Pizza,-32.00,debit
+2024-02-18,Internet Bill,-59.99,debit
+2024-02-20,Target Store,-134.50,debit
+2024-02-21,Lyft Ride,-19.00,debit
+2024-02-22,Casino Night,-450.00,debit
+2024-02-23,CVS Pharmacy,-22.30,debit
+2024-02-24,Shell Gas Station,-60.00,debit
+2024-02-25,Thai Restaurant,-55.00,debit
+2024-02-26,Freelance Income,800.00,credit
+2024-02-27,Clothing Store,-220.00,debit
+2024-02-28,Water Bill,-45.00,debit
+2024-03-01,Whole Foods Market,-78.20,debit
+2024-03-02,Netflix Subscription,-15.99,debit
+2024-03-04,BP Gas Station,-64.00,debit
+2024-03-05,Salary Deposit,5500.00,credit
+2024-03-06,Amazon Purchase,-199.99,debit
+2024-03-07,Pharmacy,-41.60,debit
+2024-03-08,Starbucks Coffee,-6.50,debit
+2024-03-09,Planet Fitness,-29.99,debit
+2024-03-10,Uber Ride,-25.00,debit
+2024-03-11,Safeway Grocery,-102.30,debit
+2024-03-12,Spotify Premium,-9.99,debit
+2024-03-13,Phone Bill,-85.00,debit
+2024-03-15,Rent Payment,-1800.00,debit
+2024-03-16,Electricity Bill,-125.00,debit
+2024-03-18,Burger King,-11.50,debit
+2024-03-19,Internet Bill,-59.99,debit
+2024-03-20,Costco,-312.40,debit
+2024-03-21,Lyft Ride,-28.00,debit
+2024-03-22,Medical Bill,-3500.00,debit
+2024-03-23,Walgreens,-35.00,debit
+2024-03-25,Exxon Gas,-57.50,debit
+2024-03-26,Italian Restaurant,-92.00,debit
+2024-03-27,Freelance Income,1500.00,credit
+2024-03-28,Online Course,-149.00,debit
+2024-03-29,Gym Equipment,-289.00,debit
+2024-03-30,Coffee Shop,-8.75,debit
